@@ -1,0 +1,12 @@
+/home/runner/cronosneedle/src/main/java/studio/krud/cronosneedle/engine/Pass2_OpcodeAnalyzer.java
+/home/runner/cronosneedle/src/main/java/studio/krud/cronosneedle/report/JsonReporter.java
+/home/runner/cronosneedle/src/main/java/studio/krud/cronosneedle/engine/Pass1_StringHarvester.java
+/home/runner/cronosneedle/src/main/java/studio/krud/cronosneedle/model/Finding.java
+/home/runner/cronosneedle/src/main/java/studio/krud/cronosneedle/JarScanner.java
+/home/runner/cronosneedle/src/main/java/studio/krud/cronosneedle/engine/Pass5_EntropyAnalyzer.java
+/home/runner/cronosneedle/src/main/java/studio/krud/cronosneedle/engine/AnalysisContext.java
+/home/runner/cronosneedle/src/main/java/studio/krud/cronosneedle/engine/Pass4_ObfuscationDetector.java
+/home/runner/cronosneedle/src/main/java/studio/krud/cronosneedle/engine/Pass3_CallGraphTracer.java
+/home/runner/cronosneedle/src/main/java/studio/krud/cronosneedle/Main.java
+/home/runner/cronosneedle/src/main/java/studio/krud/cronosneedle/model/ScanResult.java
+/home/runner/cronosneedle/src/main/java/studio/krud/cronosneedle/report/TerminalReporter.java

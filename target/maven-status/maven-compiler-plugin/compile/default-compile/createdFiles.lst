@@ -1,0 +1,16 @@
+studio/krud/cronosneedle/report/TerminalReporter.class
+studio/krud/cronosneedle/report/TerminalReporter$1.class
+studio/krud/cronosneedle/Main$1.class
+studio/krud/cronosneedle/model/Finding.class
+studio/krud/cronosneedle/Main.class
+studio/krud/cronosneedle/engine/Pass2_OpcodeAnalyzer.class
+studio/krud/cronosneedle/engine/Pass1_StringHarvester.class
+studio/krud/cronosneedle/report/JsonReporter.class
+studio/krud/cronosneedle/engine/Pass3_CallGraphTracer.class
+studio/krud/cronosneedle/engine/AnalysisContext.class
+studio/krud/cronosneedle/JarScanner.class
+studio/krud/cronosneedle/model/ScanResult$Verdict.class
+studio/krud/cronosneedle/engine/Pass5_EntropyAnalyzer.class
+studio/krud/cronosneedle/model/Finding$Severity.class
+studio/krud/cronosneedle/model/ScanResult.class
+studio/krud/cronosneedle/engine/Pass4_ObfuscationDetector.class
